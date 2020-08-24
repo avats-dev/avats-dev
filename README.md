@@ -19,16 +19,9 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning **Deep Learning** and its use cases.
-- Member [publiclab](https://github.com/publiclab/plots2)
+- Member-Contributor [publiclab](https://github.com/publiclab/plots2)
 - Project Contributor [cccatalog](https://github.com/creativecommons/cccatalog)
 - 📫 How to reach me:
      * [LinkedIn](https://www.linkedin.com/in/avats-dev/) :nerd_face:	
      * [Facebook](https://www.facebook.com/aditya.vats.1401/) :metal:	
      * [Email](mailto:avats.dev@gmail.com) :call_me_hand:	
-     
-
-     
-     
-
-
-:
