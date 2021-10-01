@@ -1,27 +1,48 @@
-## Welcome to my codebase, let's fix some bugs. :wave:
+## Hey 👋 ! Welcome to my codebase, let's fix some bugs.
 
-I'm an undergrad student :man_student: at [IIITDM Jabalpur](https://www.iiitdmj.ac.in/) pursuing B.Tech. I'm interested in the domain of artificial intelligence. I'm fluent in python and C++. I also do competitive coding sometimes. I contribute to open source in whenever I can. Apart from this, I love to read novels, and :star_struck: watch movies and shows.
+I'm an undergrad student :man_student: at [IIITDM Jabalpur](https://www.iiitdmj.ac.in/) pursuing B.Tech. 
+- I'm interested in studying AI and implementing deep learning methods to social issues. 
+- I'm fluent in python and C++. I also do competitive coding sometimes. 
+- I contribute to open source whenever I can. 
+- Apart from this, I love to read novels, and watch movies and shows :star_struck:.
 
-<!--
-**avats-dev/avats-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<details>
+    <summary>Technical Skills</summary>
+    
+    Languages : python, C++, MATLAB, HTML, CSS, Octave
+    Tools/Libs : pandas, numpy, opencv, tensorflow, pytorch, matplotlib, jupyter, scikit-learn, dash, flask, APIs, GCP, IBM Cloud, Bash
+    
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning **Deep Learning** and its use cases.
-- Member-Contributor [publiclab](https://github.com/publiclab/plots2)
-- Project Contributor [cccatalog](https://github.com/creativecommons/cccatalog)
-- 📫 How to reach me:
-     * [LinkedIn](https://www.linkedin.com/in/avats-dev/) :nerd_face:	
-     * [Facebook](https://www.facebook.com/aditya.vats.1401/) :metal:	
-     * [Email](mailto:avats.dev@gmail.com) :call_me_hand:	
+Feel free to reach out if you want to do research on any deep learning paradigms together or you have a nice project idea to implement. I am always open for discussions on deep learning papers and science fiction(specially time travel).
+
+---
+
+<details>
+    <summary>Interests</summary>
+     
+    - Deep learning in computer vision
+      - Low light images
+      - Denoising images
+      - Attention in visual domain (Image captioning)
+      - Video analysis with attention
+    - Time Series Analysis
+      - Comparative study with classical methods
+      - ESN method specially in the context of financial data modelling
+      - Improving RNN based approaches
+    - Hyperparameter optimization 
+    - Self ensembling approaches
+    - Low code(high level APIs) or code generation ideas
+    - Graph Neural Networks
+    
+</details>
+
+---
+
+### How to reach me
+- [LinkedIn](https://www.linkedin.com/in/avats-dev/)
+- [Email](mailto:avats.dev@gmail.com) 	
